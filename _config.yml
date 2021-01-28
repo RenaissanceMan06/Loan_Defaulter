@@ -1,4 +1,4 @@
 #theme: jekyll-theme-cayman
 
-remote_theme: airspace-jekyll
+remote_theme: ndrewtl/airspace-jekyll
 markdown: kramdown
