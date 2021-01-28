@@ -1,4 +1,4 @@
 #theme: jekyll-theme-cayman
 
-remote_theme: jamigibbs/phantom
+remote_theme: daattali/beautiful-jekyll
 markdown: kramdown
