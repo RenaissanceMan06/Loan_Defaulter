@@ -1,5 +1,7 @@
 ## Loan Defaulter
 
+![image](DEFAULT.jpg)
+
 ### Case Study Under Construction
 
 You can use the [editor on GitHub](https://github.com/RenaissanceMan06/Loan_Defaulter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
