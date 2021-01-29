@@ -1,4 +1,6 @@
-#theme: jekyll-theme-cayman
-
 remote_theme: chrisrhymes/bulma-clean-theme
 markdown: kramdown
+highlighter: rouge
+
+
+author: Rene Solis
