@@ -1,4 +1,4 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: daviddarnes/alembic
 markdown: kramdown
 highlighter: rouge
 
