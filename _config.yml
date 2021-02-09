@@ -1,9 +1,6 @@
-remote_theme: jekyller/jasper
+remote_theme: brianmaierjr/long-haul
 markdown: kramdown
-highlighter: rouge
+#highlighter: rouge
 
-name: 'Loan Default'
-
-plugins: [jekyll-paginate]
 
 author: Rene Solis
