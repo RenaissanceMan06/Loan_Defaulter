@@ -8,9 +8,8 @@ highlighter: rouge
 
 navigation:
   - title: Home
-    url: /index.html
-  - title: About
-    url: /about
+    url: https://github.com/RenaissanceMan06/Loan_Defaulter
+
 
 social:
   github: renesolis
