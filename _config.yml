@@ -4,4 +4,6 @@ highlighter: rouge
 
 name: 'Loan Default'
 
+plugins: [jekyll-paginate]
+
 author: Rene Solis
