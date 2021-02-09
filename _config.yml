@@ -1,6 +1,6 @@
 remote_theme: emilbaehr/automatic-app-landing-page
 markdown: kramdown
-highlighter: rouge
+#highlighter: rouge
 
 
 author: Rene Solis
