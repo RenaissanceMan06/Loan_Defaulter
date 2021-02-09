@@ -1,6 +1,6 @@
 remote_theme: jekyller/jasper
 markdown: kramdown
-#highlighter: rouge
+highlighter: rouge
 
 
 author: Rene Solis
