@@ -1,4 +1,4 @@
-remote_theme: DigitalMindCH/gridster-jekyll-theme
+remote_theme: dirkfabisch/mediator
 markdown: kramdown
 #highlighter: rouge
 
