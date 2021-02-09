@@ -6,4 +6,13 @@ markdown: kramdown
 highlighter: rouge
 
 
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+
+social:
+  github: renesolis
+
 author: Rene Solis
