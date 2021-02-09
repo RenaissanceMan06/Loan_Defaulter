@@ -1,5 +1,7 @@
 remote_theme: brianmaierjr/long-haul
 
+title: Loan Defaulter
+
 url: https://github.com/RenaissanceMan06/Loan_Defaulter
 baseurl: "/Loan_Defaulter"
 markdown: kramdown
