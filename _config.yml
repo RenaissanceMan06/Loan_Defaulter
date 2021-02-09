@@ -12,6 +12,8 @@ paginate: 1
 navigation:
   - title: Home
     url: /index.html
+  - title: About
+    url: /about
 
 
 social:
