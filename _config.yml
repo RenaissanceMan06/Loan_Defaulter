@@ -11,7 +11,7 @@ paginate: 1
 
 navigation:
   - title: Home
-    url: https://github.com/RenaissanceMan06/Loan_Defaulter
+    url: /index.html
 
 
 social:
