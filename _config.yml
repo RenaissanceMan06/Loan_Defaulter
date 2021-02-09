@@ -2,5 +2,6 @@ remote_theme: jekyller/jasper
 markdown: kramdown
 highlighter: rouge
 
+name: 'Loan Default'
 
 author: Rene Solis
