@@ -36,5 +36,11 @@ Women represent a large share of loans, nearly twice as much as men.
 
 ![image](consumers.png)
 
+### Correlation for Defaulting
+
+I used a lot of attributes to correlate with the target attribute, whether someone defaults or not on their loan. The attributes were amount of income, credit amount of the loan, approximation at what hour did the applicant applied for the loan, region where applicant lives, how many family members, days employed, highest level of education of applicant, family status of the applicant, type of occupation, and type of housing (whether applicant rents, owns, etc.). Overall, all attributes had an approximate zero correlation.
+
+![image](corr_loan.png)
+
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
