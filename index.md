@@ -8,7 +8,7 @@ When people apply for loan(s), the underwriter decides whom is a risky applicant
 
 ## Overview of Financial Products Defaults
 
-Looking at the bar plot, the `8.07 %` consumers default on their financial product. 
+Looking at the bar plot, the `8.07 %` consumers defaulted on their financial product. 
 
 ![image](total_defaulter.png)
 
