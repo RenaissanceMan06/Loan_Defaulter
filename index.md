@@ -42,5 +42,18 @@ I used a lot of attributes to correlate with the target attribute, whether someo
 
 ![image](corr_loan.png)
 
+### Supervised Learning Model
+
+Since the target attribute was severly imbalanced, I had to upsample the minority class to balance the target attribute. I used a logistic, Gaussian, and Dummy model to test which model performs best. All three models were as good as flipping a coin when predicting whom defaults based on the attributes listed above. 
+
+![image](logistic.png)
+
+![image](GB.png)
+
+![image](DB.png)
+
+### Conclusion
+
+According to the models, using the attributes listed above aren't really good at predicting whom defaults on their loans. Although those attributes have an intuitive gut feeling that someone might default, this data set and models say otherwise. 
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
