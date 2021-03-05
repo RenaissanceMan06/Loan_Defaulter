@@ -18,5 +18,9 @@ Cash loans are very popular. A total of 278,232 cash loans products were sold. H
 
 ![image](total_cash_loans.png)
 
+### Revolving Loans
+
+Revolving loans aren't as popular as cash loans. There is a total of 29,279. `5.48%` revolving loan consumers default on their loan. 
+![image](revolving_cash_loans.png)
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
