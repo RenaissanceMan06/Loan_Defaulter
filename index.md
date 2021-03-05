@@ -14,7 +14,7 @@ Looking at the bar plot, the `8.07 %` consumers default on their financial produ
 
 ### Cash Loans 
 
-Cash loans are very popular. A total of 278,232 cash loans products were sold. However, `8.35 %` default on their cash loans. 
+Cash loans are very popular. A total of 278,232 cash loans products were sold. However, `8.35 %` defaulted on their cash loans. 
 
 ![image](total_cash_loans.png)
 
