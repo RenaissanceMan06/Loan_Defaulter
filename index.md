@@ -30,4 +30,11 @@ Cash loans are big business.
 
 ![image](products_overview.png)
 
+### Who Are The Consumers?
+
+Women represent a large share of loans, nearly twice as much as men. 
+
+![image](consumers.png)
+
+
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
