@@ -42,9 +42,9 @@ I used a lot of attributes to correlate with the target attribute, whether someo
 
 ![image](corr_loan.png)
 
-### Supervised Learning Model
+### Classification Model
 
-Since the target attribute was severly imbalanced, I had to upsample the minority class to balance the target attribute. I used a logistic, Gaussian, and Dummy model to test which model performs best. All three models were as good as flipping a coin when predicting whom defaults based on the attributes listed above. 
+Since the target attribute was severely imbalanced, I had to upsample the minority class to balance the target attribute. I used a logistic, Gaussian, and Dummy model to test which model performs best. All three models were as good as flipping a coin when predicting whom defaults based on the attributes listed above. 
 
 ![image](logistic.png)
 
