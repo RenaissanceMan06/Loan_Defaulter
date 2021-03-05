@@ -9,5 +9,7 @@ When people apply for loan(s), the underwriter decides whom is a risky applicant
 ## Financial Products
 
 
+![image](total_defaulter.png)
+
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
