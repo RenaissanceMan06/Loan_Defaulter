@@ -24,4 +24,10 @@ Revolving loans aren't as popular as cash loans. There is a total of 29,279. `5.
 
 ![image](revolving_cash_loans.png)
 
+### Cash Loans vs Revolving Loans
+
+Cash loans are big business. 
+
+![image](products_overview.png)
+
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
