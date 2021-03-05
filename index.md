@@ -54,6 +54,6 @@ Since the target attribute was severely imbalanced, I had to upsample the minori
 
 ### Conclusion
 
-According to the models, using the attributes listed above aren't really good at predicting whom defaults on their loans. Although those attributes have an intuitive gut feeling that someone might default, this data set and models say otherwise. 
+According to the models, using the attributes listed above aren't really good at predicting whom defaults on their loan. Although those attributes have an intuitive gut feeling that someone might default, this data set and models say otherwise. 
 
 ##### [ GitHub Repository [Link](https://github.com/RenaissanceMan06/Loan_Defaulter) ]
