@@ -1,5 +1,4 @@
-remote_theme: poole/hyde
-#brianmaierjr/long-haul
+remote_theme: daattali/beautiful-jekyll
 
 title: Loan Defaulter
 
@@ -8,11 +7,9 @@ baseurl: /
 markdown: redcarpet
 highlighter: pygments
 
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-
 paginate: 5
 
 
 author: 'Rene Solis'
 
-version: 2.1.0
+
