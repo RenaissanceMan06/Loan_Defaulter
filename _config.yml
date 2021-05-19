@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 #remote_theme: daattali/beautiful-jekyll
 
-minimal_mistakes_skin    : "default"
+author: 'Rene Solis'
 
 title: Loan Defaulter
 
@@ -12,8 +12,6 @@ highlighter: pygments
 
 paginate: 5
 
-
-author: 'Rene Solis'
 
 
 
