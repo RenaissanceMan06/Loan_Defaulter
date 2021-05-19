@@ -16,3 +16,5 @@ paginate: 5
 author: 'Rene Solis'
 
 
+
+theme: jekyll-theme-slate
