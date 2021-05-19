@@ -13,4 +13,6 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 paginate: 5
 
 
-author: Rene Solis
+author: 'Rene Solis'
+
+version: 2.1.0
