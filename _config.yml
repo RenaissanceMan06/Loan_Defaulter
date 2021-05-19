@@ -4,19 +4,16 @@ remote_theme: poole/hyde
 title: Loan Defaulter
 
 url: https://github.com/RenaissanceMan06/Loan_Defaulter
-baseurl: "/Loan_Defaulter"
+baseurl: /
 markdown: redcarpet
 highlighter: pygments
 
-paginate: 1
+paginate: 5
 
 navigation:
   - title: Home
     url: /index.html
 
 
-
-social:
-  github: RenaissanceMan06 
 
 author: Rene Solis
